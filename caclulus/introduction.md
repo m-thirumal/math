@@ -4,7 +4,11 @@ Calculus is the mathematics of motion and change, where there is a motion or gro
 
 #### Differential Calculus
 
-Dealt with the problem of calculating rate if change. It enables us to to define a slopes of curves, to claculate velocities and accelerations of moving bodies, to find firing angles that would give cannons their greatest range, and to predict the times when planets would be closest together or farther apart.
+Dealt with the problem of calculating rate if change. It enables us to define a slopes of curves, to claculate velocities and accelerations of moving bodies, to find firing angles that would give cannons their greatest range, and to predict the times when planets would be closest together or farther apart.
+
+`dx` means - little bit of `x` (or) an element of `x`
+
+`∫dx` means - sum of all little bit of `x` or integral of `x`
 
 #### Integral Calculus
 
